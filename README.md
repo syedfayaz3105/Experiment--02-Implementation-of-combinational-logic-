@@ -13,7 +13,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Software – Quartus prime
 
 
-## Theory
+## Theory:
 combinational Logic Circuits are memoryless digital logic circuits whose output at any instant in time depends only on the combination of its inputs.The outputs of combinational Logic Circuits are only determined by the logical function of their current input state,logic "0" or logic "1",at any given instant in time.
 The result is that combinational logic circuits have no feedback,and any changes to the signals being applied to their inputs will immediately have an effect at the output.In other words,in aCombinational Logic Circuits,yhe output is dependent at all times on the combination of its inputs.Thus,a combinational circuit is memoryless.
  ## Procedure:
@@ -32,12 +32,13 @@ Developed by: Farhana H
 RegisterNumber: 23012987
 /*
 ```
+## Code:
 ![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/5bd2eb58-16b6-4195-b416-f1040244cef9)
 
 ## RTL realization
 ## Truth table:
 ![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/9a8554de-8285-419d-b1c4-7fc60f1d1701)
-## Logic Diagram
+## Logic Diagram:
 ![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/113782ee-8e61-444e-9014-72ab557600ef)
 ## Output:
 ![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/a0aba158-3371-45cb-a0ce-649ec951e300)
