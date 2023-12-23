@@ -23,11 +23,13 @@ The result is that combinational logic circuits have no feedback,and any changes
  4.Create the nodes for inputs and outputs to generate the timing diagram.
  5.For the different input combination,generate the timing diagram. 
 ## Program:
+```
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: Farhana H
 RegisterNumber: 23012987
 /*
+```
 ![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/5bd2eb58-16b6-4195-b416-f1040244cef9)
 
 ## RTL realization
