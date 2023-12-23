@@ -17,11 +17,13 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 combinational Logic Circuits are memoryless digital logic circuits whose output at any instant in time depends only on the combination of its inputs.The outputs of combinational Logic Circuits are only determined by the logical function of their current input state,logic "0" or logic "1",at any given instant in time.
 The result is that combinational logic circuits have no feedback,and any changes to the signals being applied to their inputs will immediately have an effect at the output.In other words,in aCombinational Logic Circuits,yhe output is dependent at all times on the combination of its inputs.Thus,a combinational circuit is memoryless.
  ## Procedure:
+ ```
  1.Type the program in Quartus software.
  2.Compile and run the program.
  3.Generate the RTL schematic and save the logic diagram.
  4.Create the nodes for inputs and outputs to generate the timing diagram.
- 5.For the different input combination,generate the timing diagram. 
+ 5.For the different input combination,generate the timing diagram.
+```
 ## Program:
 ```
 /*
