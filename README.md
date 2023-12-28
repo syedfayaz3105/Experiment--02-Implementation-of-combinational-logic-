@@ -23,17 +23,26 @@ To implement the given logic function verify its operation in Quartus using Veri
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: Farhana H
-RegisterNumber: 23012987
+RegisterNumber: 212223230057
+module ex_02(a,b,c,d,f1);
+input a,b,c,d;
+output f1;
+wire x1,x2,x3,x4,x5;
+assign x1=(~a)&(~b)&(~c)&(~d);
+assign x2=(a)&(~c)&(~d);
+assign x3=(~b)&(c)&(~d);
+assign x4=(~a)&(b)&(c)&(d);
+assign x5=(b)&(~c)&(d);
+assign f1=x1|x2|x3|x4|x5;
+endmodule
+
 /*
 ```
-## Code:
-![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/5bd2eb58-16b6-4195-b416-f1040244cef9)
-
 ## RTL realization
+
+![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/113782ee-8e61-444e-9014-72ab557600ef)
 ## Truth table:
 ![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/9a8554de-8285-419d-b1c4-7fc60f1d1701)
-## Logic Diagram:
-![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/113782ee-8e61-444e-9014-72ab557600ef)
 ## Output:
 ![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/a0aba158-3371-45cb-a0ce-649ec951e300)
 ## Result:
