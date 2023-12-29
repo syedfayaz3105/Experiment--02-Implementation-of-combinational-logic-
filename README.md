@@ -41,7 +41,6 @@ endmodule
 /*
 ```
 ## RTL realization
-
 ![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/113782ee-8e61-444e-9014-72ab557600ef)
 ## Truth table:
 ![image](https://github.com/syedfayaz3105/Experiment--02-Implementation-of-combinational-logic-/assets/147144126/9a8554de-8285-419d-b1c4-7fc60f1d1701)
