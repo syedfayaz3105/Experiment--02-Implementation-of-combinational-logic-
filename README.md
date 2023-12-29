@@ -1,3 +1,5 @@
+## Developed by: Farhana H
+## Register number:212223230057
 # Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
 ## AIM:
